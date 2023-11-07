@@ -1,6 +1,16 @@
-html{
+html {
     scroll-behavior: smooth;
 }
+
+body,
+a {
+    color: var(--text-color);
+}
+
+
+.visually-hidden {
+    display: none;
+  }
 
 :root {
     --color-primary: #d73953;
@@ -12,13 +22,9 @@ html{
 }
 
 
-.card-category,
-.section-taglie {
+.section-tagline, .card-category {
     color: var(--color-primary);
 }
 
-body,
-a {
-    color: var(--text-color);
-}
+
   
