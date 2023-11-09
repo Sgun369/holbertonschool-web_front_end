@@ -39,7 +39,7 @@ body {
     color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold); 
+    font-weight: var(--font-weight-bold);
 }
 
 :root {
@@ -64,7 +64,7 @@ body {
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --section-title-color: var(--color-black):
+    --section-title-color: var(--color-black);
 }
 
 h1, h2, h3, h4, h5, h6 {
