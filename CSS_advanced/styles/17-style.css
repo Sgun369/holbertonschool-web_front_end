@@ -42,8 +42,8 @@ body {
 }
 
 .section-header {
-    text-align: var(--section-header-align);
     padding: var(--section-header-padding);
+    text-align: var(--section-header-align);
 }
 
 .section-body {
@@ -104,10 +104,10 @@ body {
     --section-title-margin: 0;
     --section-title-color: var(--color-black):
     --section-padding: 5rem 0;
-    --section-header-pading: 0 0 3rem;
+    --section-header-padding: 0 0 3rem;
     --section-body-padding: 0 0 3rem;
     --section-footer-padding: 3rem 0 0;
-    --section-footer-align: center;
+    --sectionn-footer-align: center;
     --footer-padding: 5rem 0 1rem;
 }
 
